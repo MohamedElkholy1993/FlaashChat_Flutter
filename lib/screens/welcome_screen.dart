@@ -5,6 +5,7 @@ import 'package:flash_chat/components/rounded_button.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 
 
+
 class WelcomeScreen extends StatefulWidget {
   static const String id = 'welcome_screen';
   @override
